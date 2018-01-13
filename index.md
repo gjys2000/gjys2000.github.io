@@ -19,8 +19,8 @@
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li>You can contact me <a href="mailto:gjys2000@gmail.com">here</a></li>
-        		<li>My GitHub profile is <a href="https://github.com/gjys2000">here</a></li>
+        		<li>You can contact me <a href="mailto:gjys2000@gmail.com">here</a>.</li>
+        		<li>My GitHub profile is <a href="https://github.com/gjys2000">here</a>.</li>
 			</ul>
 		</footer>
 	</body>
