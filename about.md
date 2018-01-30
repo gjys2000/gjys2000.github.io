@@ -1,4 +1,7 @@
 <html>
+	<head>
+		<title>Geoff</title>
+	</head>
 	<body>
 		<nav>
     		<ul>
@@ -11,5 +14,9 @@
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
+    		<ul>
+        		<li>My GitHub profile is <a href="https://github.com/gjys2000">here</a>.</li>
+			</ul>
+		</footer>
 	</body>
 </html>
