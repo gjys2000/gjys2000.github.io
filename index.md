@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Geoff</title>
+		<title>gjys2000</title>
 	</head>
 	<body>
 		<nav>
@@ -13,7 +13,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm <em>Geoff</em></h1>
+        		<h1>Hi there, I'm <em>gjys2000</em></h1>
 			<p>Welcome to my GitHub website.<a href="/about"> Read more here</a></p>
 			<p>Some things I intend on adding to this website over time</p>
 			<li>Upload my lecture notes</li>
