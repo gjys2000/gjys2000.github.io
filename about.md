@@ -11,7 +11,5 @@
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
-    		<ul>
-		</footer>
 	</body>
 </html>
